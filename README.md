@@ -9,38 +9,10 @@ Modifie les placeholders : liens, email, projets, stats, etc.
 <!-- BANNIÈRE PREMIUM ANIMÉE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=👨‍💻%20MONJA&fontSize=70&fontColor=fff&animation=fadeIn&reverseDirection=false" />
 
-<!-- <style> -->
-  @keyframes slideIn {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  @keyframes shine {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-  }
-  .role-text {
-    font-size: 2.5em;
-    font-weight: 900;
-    color: #0066ff;
-    animation: slideIn 0.8s ease-out;
-    letter-spacing: 1.5px;
-    text-shadow: 2px 2px 4px rgba(0, 102, 255, 0.2);
-  }
-  .role-item {
-    display: inline-block;
-    animation: shine 2s ease-in-out infinite;
-    margin: 0 8px;
-  }
-</style>
-
-<h1 class="role-text">
-  <span class="role-item">💻 Développeur Full-Stack</span><br/>
-  <span style="display:inline-block; margin-top:10px; font-size: 0.9em;">
-    <span class="role-item">🔧 DevOps</span> 
-    <span style="color: #0066ff; margin: 0 15px; opacity: 0.6;">|</span> 
-    <span class="role-item">🤖 ML Engineer</span>
-  </span>
-</h1></an1>
+<!-- TITRE ANIMÉ avec Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=💻+Développeur+Full-Stack;🔧+DevOps+%7C+🤖+ML+Engineer" alt="Typing SVG" />
+</h1>
 
 <p>
   <a href="#apropos">
