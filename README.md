@@ -9,7 +9,7 @@ Modifie les placeholders : liens, email, projets, stats, etc.
 <!-- BANNIÈRE PREMIUM ANIMÉE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=👨‍💻%20MONJA&fontSize=70&fontColor=fff&animation=fadeIn&reverseDirection=false" />
 
-<style>
+<!-- <style> -->
   @keyframes slideIn {
     from { opacity: 0; transform: translateY(-10px); }
     to { opacity: 1; transform: translateY(0); }
