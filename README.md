@@ -1,144 +1,119 @@
 <div align="center">
 
 <!-- BANNIÈRE ANIMÉE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=MONJA&fontSize=70&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=MONJA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38" />
 
-<!-- TITRE -->
-<h1>Développeur Full-Stack | DevOps | ML Engineer</h1>
+<h3>Développeur Full-Stack | DevOps | ML Engineer</h3>
 
-<!-- NAVIGATION -->
-[![À propos](https://img.shields.io/badge/À_propos-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](#-à-propos-de-moi)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-4ECDC4?style=for-the-badge&logo=stackoverflow&logoColor=white)](#-tech-stack)
-[![Projets](https://img.shields.io/badge/Projets-FFE66D?style=for-the-badge&logo=github&logoColor=black)](#-projets-phares)
-[![Contact](https://img.shields.io/badge/Contact-95E1D3?style=for-the-badge&logo=gmail&logoColor=white)](#-contact)
+<br/>
 
-### Je transforme vos idées en solutions numériques innovantes
+<!-- STATS COMPACTS -->
+<table>
+<tr>
+<td align="center"><b>Expérience</b><br/><h2>5+ ans</h2></td>
+<td align="center"><b>Projets</b><br/><h2>20+</h2></td>
+<td align="center"><b>Satisfaction</b><br/><h2>100%</h2></td>
+</tr>
+</table>
 
-</div>
+<br/>
 
----
+<!-- STATS GITHUB -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monja119&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
-## Statistiques
+<br/><br/>
 
-<div align="center">
+<!-- TECH STACK -->
+<h2>Tech Stack</h2>
 
-| Expérience | Projets | Satisfaction |
-|:---:|:---:|:---:|
-| **5+ ans** | **20+ projets** | **100%** |
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br/>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br/>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<br/>PHP
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br/>React
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<br/>Node.js
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+<br/>Django
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
+<br/>Laravel
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br/>Docker
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br/>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br/>PostgreSQL
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br/>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+<br/>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+<br/>AWS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br/>Git
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br/>Linux
+</td>
+</tr>
+</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monja119&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+<br/><br/>
 
-</div>
+<!-- CONTACT -->
+<h2>Contact</h2>
 
----
+<a href="mailto:monja.sesame@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://wa.me/261340861263">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://github.com/monja119">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://monja.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
-## À propos de moi
+<br/><br/>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRwdWdiYmZlYWt6NWh2bGZveGZoOHh4ZzhuNnFqcmEzdWpueTFtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="280" />
-
-Passionné par le développement web depuis **5+ ans**, je transforme les idées en solutions numériques innovantes.
-
-### Mon expertise
-
-| Domaine | Technologies | Description |
-|---------|-------------|-------------|
-| Frontend | React, JavaScript | Expérience utilisateur optimale |
-| Backend | Django, Laravel, Node.js | APIs scalables et robustes |
-| DevOps | Docker, CI/CD, Cloud | Infrastructure automatisée |
-| ML/IA | Python, TensorFlow | Solutions intelligentes |
-
-> J'intègre des pratiques **DevOps** pour des cycles de livraison rapides et fiables.
-
-<br clear="right"/>
-
----
-
-## Tech Stack
-
-### Langages
-> Bases solides pour livrer vite et propre
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Runtimes
-> Apps performantes, maintenables et scalables
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Outils & Infrastructure
-> Livraison continue, environnements reproductibles
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Bases de données
-> Modélisation, performance et sécurité des données
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Machine Learning & IA
-> Prototypes IA livrables et intégrés produit
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## Services & Expertise
-
-<div align="center">
-
-| Frontend | Backend | DevOps |
-|:---:|:---:|:---:|
-| ![Frontend](https://img.shields.io/badge/FRONTEND-FF6B6B?style=for-the-badge) | ![Backend](https://img.shields.io/badge/BACKEND-4ECDC4?style=for-the-badge) | ![DevOps](https://img.shields.io/badge/DEVOPS-FFE66D?style=for-the-badge) |
-| **React • JS • UX/UI** | **Django • Laravel • APIs** | **Docker • CI/CD • Cloud** |
-| Interfaces modernes et réactives avec focus accessibilité | Systèmes robustes, sécurisés et scalables | Déploiements automatisés et observabilité |
-
-</div>
-
----
-
-## Témoignages
-
-> **Notiavina Fanantenana Razafindrakoto**
-> 
-> *"J'ai de facilité au travail grâce à un outil d'automatisation que vous avez fait, merci beaucoup"*
-
-> **Fidy R.**
-> 
-> *"Waouh C'est incroyable de voir quelqu'un qui n'a pas peur de partager de nouvelles choses Je te fais vraiment confiance jusqu'au bout"*
-
----
-
-## Contact
-
-<div align="center">
-
-| Email | WhatsApp | GitHub | Portfolio |
-|:---:|:---:|:---:|:---:|
-| [![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monja.sesame@gmail.com) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/261340861263) | [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monja119) | [![Portfolio](https://img.shields.io/badge/Portfolio-FF9500?style=for-the-badge&logo=vercel&logoColor=white)](https://monja.vercel.app) |
-| Réponse sous 24h | Dispo rapide | Repos & contributions | Projets détaillés |
-
-</div>
-
----
-
-<div align="center">
-
-### Prêt à transformer vos idées en réalité ? Contactez-moi !
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=120&section=footer&animation=fadeIn" />
-
-[![Remonter](https://img.shields.io/badge/Remonter_en_haut-333?style=for-the-badge)](#)
-
-</div>
-
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
