@@ -3,8 +3,8 @@
 <!-- BANNIÈRE ANIMÉE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=MONJA&fontSize=70&fontColor=fff&animation=fadeIn" />
 
-<!-- TITRE ANIMÉ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Développeur+Full-Stack;DevOps+%7C+ML+Engineer" alt="Typing SVG" />
+<!-- TITRE -->
+<h1>Développeur Full-Stack | DevOps | ML Engineer</h1>
 
 <!-- NAVIGATION -->
 [![À propos](https://img.shields.io/badge/À_propos-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](#-à-propos-de-moi)
